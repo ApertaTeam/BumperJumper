@@ -13,9 +13,9 @@ mainGame.init = function(){
 
     currentSprite = 0;
 
-    loadArt("assets/sprites/Loading.png");
+    loadArt("https://apertateam.github.io/the-gamebox/games/BumperJumper/assets/sprites/Loading.png");
 
-    loadArt("assets/sprites/TempPlayer.png");
+    loadArt("https://apertateam.github.io/the-gamebox/games/BumperJumper/assets/sprites/TempPlayer.png");
 
     var setupFadeIn = 0;
     var setupFadeOut = 1;
